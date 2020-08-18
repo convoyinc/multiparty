@@ -21,7 +21,7 @@
     "safe-buffer": "5.1.1"
   },
   "devDependencies": {
-    "eslint": "2.13.1",
+    "eslint": "7.7.0",
     "findit2": "2.2.3",
     "istanbul": "0.4.5",
     "mkdirp": "0.5.1",
